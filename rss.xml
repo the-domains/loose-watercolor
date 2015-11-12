@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Loose Watercolor]]></title>
+        <description><![CDATA[Loose Watercolor]]></description>
+        <link>https://thegrid.ai/loose-watercolor/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 12 Nov 2015 10:59:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/loose-watercolor/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>First Picture...</p>]]></description>
+            <link>https://thegrid.ai/loose-watercolor/fccb51c1-7f39-413b-8b21-7b527318a9d8/index.html</link>
+            <guid isPermaLink="false">fccb51c1-7f39-413b-8b21-7b527318a9d8</guid>
+            <pubDate>Thu, 12 Nov 2015 10:59:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[First Post new site]]></title>
+            <description><![CDATA[<article><h1>First Post new site</h1><p>This is my first post to my new loose watercolor website</p></article>]]></description>
+            <link>https://thegrid.ai/loose-watercolor/first-post-new-site/index.html</link>
+            <guid isPermaLink="false">835a8595-64ae-4bc4-ad0e-63375c51fe87</guid>
+            <pubDate>Sat, 07 Nov 2015 14:50:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
