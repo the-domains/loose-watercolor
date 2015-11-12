@@ -4,8 +4,15 @@
         <description><![CDATA[Loose Watercolor]]></description>
         <link>https://thegrid.ai/loose-watercolor/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 Nov 2015 10:59:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2015 11:00:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/loose-watercolor/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The grid sucks.]]></title>
+            <description><![CDATA[<article><h1>The grid sucks.</h1><p>How to add photos?</p></article>]]></description>
+            <link>https://thegrid.ai/loose-watercolor/the-grid-sucks/index.html</link>
+            <guid isPermaLink="false">e54f9559-5881-44e5-90aa-f674d0be8b15</guid>
+            <pubDate>Thu, 12 Nov 2015 10:59:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>First Picture...</p>]]></description>
